@@ -17,7 +17,6 @@ export class ContactPage extends BasePage {
     async open() {
         await this.visit("/about/who-we-are/contact");
         await this.page.waitForLoadState("load");
-        return this;
     }
 
     async submitForm() {

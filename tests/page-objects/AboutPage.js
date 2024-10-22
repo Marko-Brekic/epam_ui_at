@@ -12,7 +12,6 @@ export class AboutPage extends BasePage {
     async open() {
         await this.visit("/about");
         await this.page.waitForLoadState("load");
-        return this;
     }
 
     async navigateToHomePageViaEpamHeaderLogo() {
