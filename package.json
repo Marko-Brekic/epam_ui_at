@@ -6,7 +6,7 @@
     "test": "playwright test --workers=2 --retries=1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marko Brekic",
   "license": "ISC",
   "description": "",
   "devDependencies": {
