@@ -1,0 +1,13 @@
+{
+    "homePageUrlEn": "https://www.epam.com/",
+    "homePageTitleEn": "EPAM | Software Engineering & Product Development Services",
+    "pageTitleUa": "EPAM Ukraine - найбільша ІТ-компанія в Україні | Вакансії",
+    "policiesLinkTexts": ["INVESTORS", "COOKIE POLICY", "OPEN SOURCE", "APPLICANT PRIVACY NOTICE", "PRIVACY POLICY", "WEB ACCESSIBILITY"],
+    "regions": ["AMERICAS", "EMEA", "APAC"],
+    "searchPhrase": "AI",
+    "contactForm" : {
+        "fieldRequiredMsg": "This is a required field",
+        "consentCheckboxRequiredMsg": "Please check this box if you want to proceed"
+    },
+    "reportFileName": "EPAM_Corporate_Overview_Q4_EOY.pdf"   
+}
